@@ -48,7 +48,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = []
 
 
-ROOT_URLCONF = "newapi.urls"
+ROOT_URLCONF = "newsapi.urls"
 
 TEMPLATES = [
     {
